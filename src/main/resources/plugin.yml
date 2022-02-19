@@ -1,0 +1,12 @@
+name: Cords
+version: '${project.version}'
+main: de._coho04_.cords.Main
+api-version: 1.18
+authors: [ _Coho04_ ]
+website: https://coho04.de/
+
+
+commands:
+  cords:
+    aliases:
+      - Cords
