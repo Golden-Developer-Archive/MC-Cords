@@ -10,3 +10,8 @@ commands:
   cords:
     aliases:
       - Cords
+  getCords:
+    aliases:
+      - gCords
+      - getC
+      - gc
